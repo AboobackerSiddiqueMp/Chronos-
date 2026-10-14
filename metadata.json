@@ -1,0 +1,6 @@
+{
+  "name": "Chronos - Minimalist Timer & Focus Suite",
+  "description": "An ultra-clean minimalist timekeeping and deep-focus suite with Timer, Clock, Pomodoro, Stopwatch, procedural Web Audio chimes, and ambient soundscapes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
